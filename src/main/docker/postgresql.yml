@@ -1,0 +1,11 @@
+version: '2'
+services:
+    mediahype-postgresql:
+        image: postgres:10.4
+        # volumes:
+        #     - ~/volumes/jhipster/MediaHype/postgresql/:/var/lib/postgresql/data/
+        environment:
+            - POSTGRES_USER=MediaHype
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
