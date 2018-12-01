@@ -1,8 +1,7 @@
 {
   "global": {
     "title": "MediaHype",
-    "browsehappy":
-      "Está a usar um navegador <strong>desatualizado</strong>. Por favor <a href=\"http://browsehappy.com/?locale=pt_PT\">atualize o seu navegador</a> para ter uma experiência melhor.",
+    "browsehappy": "Está a usar um navegador <strong>desatualizado</strong>. Por favor <a href=\"http://browsehappy.com/?locale=pt_PT\">atualize o seu navegador</a> para ter uma experiência melhor.",
     "menu": {
       "home": "Início",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
@@ -51,8 +50,7 @@
         "authenticated": {
           "prefix": "Para ",
           "link": "entrar",
-          "suffix":
-            ", utilize as seguintes contas:<br/>- Administrador (utilizador=\"admin\" e palavra-passe=\"admin\") <br/>- Utilizador (utilizador=\"user\" e palavra-passe=\"user\")."
+          "suffix": ", utilize as seguintes contas:<br/>- Administrador (utilizador=\"admin\" e palavra-passe=\"admin\") <br/>- Utilizador (utilizador=\"user\" e palavra-passe=\"user\")."
         },
         "register": {
           "noaccount": "Ainda não tem uma conta?",
